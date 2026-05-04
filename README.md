@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MicheleNoten
-- 👀 I’m interested in Fashion Sustainability, Pilates/ Yoga/ Gym, Delicious food and cool restaurant experiences, and Learning about different cultures (and lots more of course, but lets keep this short) 
-- 🌱 I’m currently learning Ruby on Rails and JavaScript
-- 💞️ I’m looking to collaborate 
+- 👀 I’m interested in preventive healthcare, sustainability, hiking, delicious food and cool restaurant experiences, and learning about different cultures (and lots more of course, but lets keep this short) 
 - 📫 How to reach me via WA +31 621 646 383 
 
 <!---
